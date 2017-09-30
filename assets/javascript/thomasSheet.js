@@ -59,7 +59,7 @@ database.ref().on("child_added", function(childSnapshot, prevChildKey) {
   var fbTrainFreq = childSnapshot.val().frequency;
 
   var differenceTime = moment().diff(moment.unix(fbTrainFirst), "minutes");
-  var timeRemainder = moment().diff(moment.unix(fbTrainFirst), "minutes") % fbTrainFreq ;
+  var timeRemainder = differenceTime % fbTrainFreq;
   var minAway = fbTrainFreq - timeRemainder;
   
 //To calculate the arrival time, add the minAway to the current time
