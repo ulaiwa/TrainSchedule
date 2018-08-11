@@ -1,4 +1,4 @@
-# [TrainSchedule] (https://ulaiwa.github.io/TrainSchedule/)
+# TrainSchedule
 
 ![alt text](/ScreenShot.png)
 
@@ -6,3 +6,5 @@
 - store data in firebase
 - real time tracker
 - page auto refresh
+
+[Train Schedule] (https://ulaiwa.github.io/TrainSchedule/)
