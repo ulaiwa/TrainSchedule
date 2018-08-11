@@ -1,4 +1,7 @@
+# System Files
 .DS_Store
+Thumbs.db
 
-assets/javascript/thomasSheet.js/
-dir_to_ignore/assets/javascript/thomasSheet.js/
+# Ignore all javascript file
+*.java
+*.js
