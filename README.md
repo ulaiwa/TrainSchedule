@@ -1,10 +1,10 @@
-# TrainSchedule
+# Train Schedule
 
 ![alt text](/ScreenShot.png)
 
-## features:
+## Features:
 - store data in firebase
 - real time tracker
 - page auto refresh
 
-[Train Schedule] (https://ulaiwa.github.io/TrainSchedule/)
+[Train Schedule](https://ulaiwa.github.io/TrainSchedule/)
